@@ -1,5 +1,14 @@
 # Shop
 
+## Login
+
+Kullancı Adı: admin
+Şifre: 123
+
+## shop.json
+
+json-server --watch shop.json
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.3.
 
 ## Development server

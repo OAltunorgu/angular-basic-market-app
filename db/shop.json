@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Asus ZenBook",
+      "imageUrl": "https://img-trendyol.mncdn.com/mnresize/400/-/ty292/product/media/images/20220110/14/24434972/355659437/1/1_org_zoom.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 25,
+      "categoryId": 2,
+      "description": "A4Tech",
+      "imageUrl": "https://static-01.daraz.com.bd/p/ff409f8cfdfded0de81c0269326345ea.jpg"
+    },
+    {
+      "categoryId": "1",
+      "price": "1000",
+      "imageUrl": "https://cdn.evkur.com.tr/c/Product/thumbs/rampage-kb-r132-falcon-x-usb-led-aydinlatmali-q-gaming-klavye-gri-1_r8t0bo_500.jpg",
+      "description": "Gamer Klavye",
+      "name": "Rampage Klavye",
+      "id": 3
+    },
+    {
+      "name": "Test",
+      "description": "Gamer Test",
+      "imageUrl": "https://www.kibristeknoloji.com/resimler/urunler/350x500/2_asus-tuf-gaming-vg27bq-27-0-4ms-165hz-elmb-adaptive-sync-flicker-free-tn-wqhd-gaming-monitor-resim-5389.jpg",
+      "price": "3000",
+      "categoryId": "1",
+      "id": 4
+    },
+    {
+      "name": "Casper",
+      "price": "1500",
+      "description": "Gamer Kulaklık",
+      "imageUrl": "https://www.casper.com.tr/uploads/2021/07/excalibur-gh21-gaming-kulaklik-1.png",
+      "categoryId": "2",
+      "id": 5
+    },
+    {
+      "name": "Monster",
+      "description": "Tulpar T7 v20.2",
+      "imageUrl": "https://img-monsternotebook.mncdn.com/UPLOAD/upload/T7-V20.4-resimler/thumb/TR%20Tulpar%20T7%20v20%20-%20IDR%20-%20Windows_large.png",
+      "price": "2700",
+      "categoryId": "1",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bilgisayar"
+    },
+    {
+      "id": 2,
+      "name": "Elektronik"
+    }
+  ]
+}
